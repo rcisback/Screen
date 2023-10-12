@@ -1,7 +1,7 @@
 local camera = workspace.CurrentCamera
 local settings = {
     ["Aspect Ratio"] = true, --// leave it like this if i don't know what You're doing
-    ["Ratio Value"] = 0.6 --// leave it like this if i don't know what You're doing
+    ["Ratio Value"] = 0.2 --// leave it like this if i don't know what You're doing
 }
 
 local oldNewindex
